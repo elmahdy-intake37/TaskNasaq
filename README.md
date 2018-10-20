@@ -24,4 +24,9 @@ for example
 
 
 if you want to see rest if logic pattern you can send name of state as name of class for now and it will modify as name of string
-you can see changing status in server log 
+you can see changing status in server log
+
+
+best practice :
+using rest framework API
+make another table for link
